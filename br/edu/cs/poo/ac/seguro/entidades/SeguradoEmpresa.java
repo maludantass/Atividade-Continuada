@@ -3,7 +3,6 @@ package br.edu.cs.poo.ac.seguro.entidades;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-
 public class SeguradoEmpresa extends Segurado {
     private String cnpj; 
     private double faturamento; 
